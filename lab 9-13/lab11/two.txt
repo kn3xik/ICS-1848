@@ -1,1 +1,0 @@
-{"Alfa": 25, "Beta": 10, "Gamma": 60, "Delta": 8}
